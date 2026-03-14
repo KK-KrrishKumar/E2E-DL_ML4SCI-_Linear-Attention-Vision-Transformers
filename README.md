@@ -1,4 +1,4 @@
-# CMS-E2E-Linear-Attention-Krrish-Kumar
+# ML4SCI-E2E-Linear-Attention-Krrish-Kumar
 
 ### Tasks & Results
 **Evaluation Metric:** **ROC-AUC** for particle classification and **RMSE** for mass regression. These metrics were selected to ensure the architecture effectively identifies particle types while maintaining high precision in reconstructing physical invariant mass.
